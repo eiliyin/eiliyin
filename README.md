@@ -1,12 +1,13 @@
-### Hi there 👋
+### Hi there My Name is Eiliyin Carlos Pinto And here i'll show all my learning process through Programming 👋
 
+### Hola a Todos mi Nombre es Eiliyin Carlos Pinto y Aqui ire mostrando todo mi proceso de aprendizaje a través de la programación.
 <!--
 **eiliyin/eiliyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on learning 
+- 🌱 I’m currently learnin gprogramming 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
